@@ -33,4 +33,4 @@ def make_request(img_type, prompt=None, img_id=None, num=None):
 
 # Example usage:
 # Generate image from prompt
-make_request("P", prompt="一个企鹅，骑着摩托，抱着狗")
+make_request("P", prompt="一个企鹅，骑着摩托")
